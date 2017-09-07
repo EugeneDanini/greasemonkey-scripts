@@ -8,8 +8,8 @@ cd ~/.mozilla/firefox/4tthpaav.default/gm_scripts
 git clone https://github.com/EvgenyDanini/greasemonkey-scripts .
 ```
 
-### disable_lj_ads
+### disable lj ads
 Sets livejournal.com advertisement and promotions to display none
 
-### disable_vk_ads
+### disable vk ads
 Sets vk.com advertisement and promotions to display none

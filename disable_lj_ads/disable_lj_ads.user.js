@@ -9,14 +9,15 @@
 // @grant       none
 // ==/UserScript==
 
-(function() {
-var css = ".allbanners, .b-discoverytimes-wrapper, .entryunit--feedpromo-entry, .recommended-entries { display:none !important }";
+(function () {
+    var css = ".allbanners, .b-discoverytimes-wrapper, .entryunit--feedpromo-entry, .recommended-entries " +
+        "{display:none !important;}";
 
-var heads = document.getElementsByTagName("head");
-if (heads.length > 0) {
-	var node = document.createElement("style");
-	node.type = "text/css";
-	node.appendChild(document.createTextNode(css));
-	heads[0].appendChild(node);
-}
+    var heads = document.getElementsByTagName("head");
+    if (heads.length > 0) {
+        var node = document.createElement("style");
+        node.type = "text/css";
+        node.appendChild(document.createTextNode(css));
+        heads[0].appendChild(node);
+    }
 })();
