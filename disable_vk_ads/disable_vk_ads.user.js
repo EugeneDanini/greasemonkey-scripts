@@ -7,7 +7,7 @@
 // ==/UserScript==
 
 (function () {
-    var css = "#ads_left, _ads_promoted_post_data_w " +
+    var css = "#ads_left, ._ads_promoted_post_data_w" +
         "{display:none !important}";
 
     var heads = document.getElementsByTagName("head");
