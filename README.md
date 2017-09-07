@@ -5,7 +5,7 @@ Clone repository into directory gm_scripts in your firefox profile.
 For example:
 ```bash
 cd ~/.mozilla/firefox/4tthpaav.default/gm_scripts
-git clone https://github.com/EvgenyDanini/greasemonkey-scripts .
+git clone https://github.com/EugeneDanini/greasemonkey-scripts .
 ```
 
 ### disable lj ads
