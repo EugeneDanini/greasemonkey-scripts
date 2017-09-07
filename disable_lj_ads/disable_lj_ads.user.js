@@ -10,7 +10,8 @@
 // ==/UserScript==
 
 (function () {
-    var css = ".allbanners, .b-discoverytimes-wrapper, .entryunit--feedpromo-entry, .recommended-entries " +
+    var css = ".allbanners, .b-discoverytimes-wrapper, .entryunit--feedpromo-entry, .entryunit--feedpromo," +
+        ".recommended-entries " +
         "{display:none !important;}";
 
     var heads = document.getElementsByTagName("head");
