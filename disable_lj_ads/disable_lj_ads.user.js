@@ -11,7 +11,7 @@
 
 (function () {
     var css = ".allbanners, .b-discoverytimes-wrapper, .entryunit--feedpromo-entry, .entryunit--feedpromo," +
-        ".recommended-entries " +
+        ".recommended-entries, .ljsale " +
         "{display:none !important;}";
 
     var heads = document.getElementsByTagName("head");
