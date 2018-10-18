@@ -2,7 +2,7 @@
 // @name        disable vk ads
 // @namespace   vk
 // @include     https://vk.com/*
-// @version     1
+// @version     1.0.0
 // @grant       none
 // ==/UserScript==
 

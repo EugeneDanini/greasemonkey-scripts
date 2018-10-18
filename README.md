@@ -1,12 +1,7 @@
 # Scripts for greasemonkey firefox add-on
 
 ## Usage
-Clone repository into directory gm_scripts in your firefox profile.
-For example:
-```bash
-cd ~/.mozilla/firefox/4tthpaav.default/gm_scripts
-git clone https://github.com/EugeneDanini/greasemonkey-scripts .
-```
+GreaseMonkey no longer stores the user scripts in gm_scripts for Firefox. So apparently the only way is import the last archive from dist directory into greasemonkey. Do not forget to set overwrite option on in import backup tab.
 
 ### disable lj ads
 Sets livejournal.com advertisement and promotions to display none

@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name        disable lj ads
 // @namespace   lj
-// @include       http://livejournal.com/*
-// @include       https://livejournal.com/*
-// @include       http://*.livejournal.com/*
-// @include       https://*.livejournal.com/*
-// @version     1
+// @include     http://livejournal.com/*
+// @include     https://livejournal.com/*
+// @include     http://*.livejournal.com/*
+// @include     https://*.livejournal.com/*
+// @version     1.0.0
 // @grant       none
 // ==/UserScript==
 
